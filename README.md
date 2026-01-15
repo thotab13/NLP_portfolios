@@ -11,12 +11,12 @@
 
 ```
 NLP_portfolios/
+├── portfolio1/Paper_presenatation
 │
-├── portfolio1/
 │
-├── portfolio2/
+├── portfolio2/poemgenerator,huggingface,TFIDF
 │
-├── Portfolio3Tunix/
+├── Portfolio3Tunix/kaggle Tunix hackerthon
 │
 └── README.md
 ```
