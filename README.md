@@ -13,14 +13,12 @@
 NLP_portfolios/
 ├── portfolio1/Paper_presenatation
 │
-│
 ├── portfolio2/poemgenerator,huggingface,TFIDF
 │
 ├── Portfolio3Tunix/kaggle Tunix hackerthon
 │
+├── Capstone project MigrantNAV
 └── README.md
 ```
 
----
-
-**Note:** Capstone project will be added soon.
+Every one have equal contribution
